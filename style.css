@@ -1,0 +1,59 @@
+.promo {
+    background-image: url(img/External_background.png);
+    Width: auto;
+    Height:	931px;
+}
+.logo .logo_img {
+    position: relative;
+    width: 80px;
+    height: 28px;
+    left: 117px;
+    top: 90px;
+}
+
+.logo .logo_text {
+    font-family: Roboto-Bold,AdobeInvisFont,MyriadPro-Regular;
+    width: 400px;
+    height: 131px;
+    font-size: 40px;
+    color: #00FFFC;
+    margin-top: 307px;
+    margin-left: 247px;
+}
+
+.logo .Nike {
+    margin-top: -220px;
+    margin-left: 864px;
+}
+
+.logo .logo_btn {
+    display: block;
+    position: relative;
+    border: 1px solid #00ECF4;
+    background-color: #00ECF4;
+    margin-top: -60px;
+    margin-left: 235px;
+    border-radius: 24px;
+    color: white;
+    width: 185px;
+    height: 51px;
+    font-size: large;
+}
+
+.logo .btn_lo {
+    display: block;
+    position: relative;
+    border: 2px solid white;
+    background-color: #00ECF4;
+    margin-top: -50px;
+    margin-left: 460px;
+    border-radius: 24px;
+    color: white;
+    width: 185px;
+    height: 51px;
+    font-size: large;
+}
+
+.specific {
+    background-image: url(img/BG@0.75X.png);
+}
